@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "AI Writing Pro",
+    "description": "Unlock high-quality AI-generated content for your blogs and social media.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Unlimited AI words", "10+ Languages", "SEO Optimization", "ATS optimization"],
+    "icon": "WritingIcon"
+  },
+  {
+    "id": "2",
+    "name": "Design Toolkit",
+    "description": "Premium design assets and templates for modern web projects.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["100+ templates", "Vector assets", "Export to PDF", "Figma files"],
+    "icon": "DesignIcon"
+  },
+  {
+    "id": "3",
+    "name": "SEO Master",
+    "description": "The ultimate tool for tracking and improving your search engine rankings.",
+    "price": 99,
+    "period": "yearly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Keyword tracking", "Backlink audit", "Competitor analysis", "Site audit"],
+    "icon": "SeoIcon"
+  },
+  {
+    "id": "4",
+    "name": "Social Manager",
+    "description": "Schedule and manage all your social media accounts in one place.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["All platforms", "Post scheduling", "Analytics dashboard", "Team collaboration"],
+    "icon": "SocialIcon"
+  },
+  {
+    "id": "5",
+    "name": "Code Optimizer",
+    "description": "Analyze and improve your code performance with AI insights.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["Performance analysis", "Bug detection", "Refactoring tips", "Security audit"],
+    "icon": "CodeIcon"
+  },
+  {
+    "id": "6",
+    "name": "Cloud Storage Plus",
+    "description": "Secure and fast cloud storage for all your digital assets.",
+    "price": 129,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["5TB Storage", "End-to-end encryption", "File versioning", "Direct sharing"],
+    "icon": "CloudIcon"
+  }
+]
