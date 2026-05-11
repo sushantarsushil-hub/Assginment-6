@@ -1,16 +1,70 @@
-# React + Vite
+🚀 Project Name: Digital Tool Cart – Digital Product Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive eCommerce-style React application where users can browse digital products, add them to a cart, remove items, and proceed to checkout with smooth UI interactions and toast notifications.
 
-Currently, two official plugins are available:
+📖 Project Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+SmartCart is a React-based frontend project built with Tailwind CSS and DaisyUI.
+The application allows users to explore multiple digital subscription products such as templates, UI kits, resume builders, and productivity tools.
 
-## React Compiler
+Users can:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+View products in a beautiful card layout
+Add products to the cart
+Remove products individually
+See live cart count updates in the navbar
+Clear the cart through checkout
+Get interactive notifications using React-Toastify
 
-## Expanding the ESLint configuration
+The design is fully responsive and follows modern UI/UX practices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚙️ Technologies Used
+⚛️ React.js
+🎨 Tailwind CSS
+🌼 DaisyUI
+🟨 JavaScript (ES6+)
+🔔 React-Toastify
+📦 JSON Data
+✨ Features
+🛒 Dynamic Cart System
+
+Users can add/remove products from the cart and see real-time cart count updates in the navbar.
+
+🔔 Toast Notification Alerts
+
+Integrated React-Toastify for:
+
+Added to cart
+Removed from cart
+Successful checkout
+
+📱 Fully Responsive Design
+
+Optimized for:
+
+Mobile devices
+Tablets
+Desktop screens
+🧩 Main Functionalities
+Responsive Navbar with cart count
+Hero Banner Section
+Statistics Section
+Product & Cart Toggle System
+Dynamic Product Cards from JSON Data
+Cart Management System
+Checkout Functionality
+Steps Section
+Pricing Section
+Footer Section
+
+🔧 Installation & Setup
+Clone the repository
+git clone https://github.com/your-username/smartcart.git
+Go to project folder
+cd smartcart
+Install dependencies
+npm install
+Install React Toastify
+npm install react-toastify
+Run the project
+npm run dev
