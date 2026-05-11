@@ -1,9 +1,10 @@
 🚀 Project Name: Digital Tool Cart – Digital Product Store
-
+----
 A modern and responsive eCommerce-style React application where users can browse digital products, add them to a cart, remove items, and proceed to checkout with smooth UI interactions and toast notifications.
-
+Git Live Link- https://euphonious-biscotti-72004f.netlify.app/
+----
 📖 Project Description
-
+----
 SmartCart is a React-based frontend project built with Tailwind CSS and DaisyUI.
 The application allows users to explore multiple digital subscription products such as templates, UI kits, resume builders, and productivity tools.
 
@@ -17,7 +18,7 @@ Clear the cart through checkout
 Get interactive notifications using React-Toastify
 
 The design is fully responsive and follows modern UI/UX practices.
-
+----
 ⚙️ Technologies Used
 ⚛️ React.js
 🎨 Tailwind CSS
@@ -37,6 +38,7 @@ Integrated React-Toastify for:
 Added to cart
 Removed from cart
 Successful checkout
+----
 
 📱 Fully Responsive Design
 
@@ -56,7 +58,7 @@ Checkout Functionality
 Steps Section
 Pricing Section
 Footer Section
-------
+----
 🔧 Installation & Setup
 Clone the repository
 git clone https:https://github.com/sushantarsushil-hub/Assginment-6.git
