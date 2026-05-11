@@ -56,10 +56,10 @@ Checkout Functionality
 Steps Section
 Pricing Section
 Footer Section
-
+------
 🔧 Installation & Setup
 Clone the repository
-git clone https://github.com/your-username/smartcart.git
+git clone https:https://github.com/sushantarsushil-hub/Assginment-6.git
 Go to project folder
 cd smartcart
 Install dependencies
